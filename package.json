@@ -2,21 +2,21 @@
   "name": "pomelo-rt",
   "version": "1.0.0",
   "private": false,
-  "homepage": "https://github.com/NetEase/pomelo",
+  "homepage": "https://github.com/roytan883/pomelo-rt",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NetEase/pomelo.git"
+    "url": "https://github.com/roytan883/pomelo-rt.git"
   },
   "scripts": {
     "test": "grunt"
   },
   "bugs": {
-    "url": "https://github.com/NetEase/pomelo/issues"
+    "url": "https://github.com/roytan883/pomelo-rt/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/NetEase/pomelo#license"
+      "url": "https://github.com/roytan883/pomelo-rt#license"
     }
   ],
   "keywords": [
