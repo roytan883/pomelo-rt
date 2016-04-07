@@ -76,13 +76,13 @@
     },
     {
       "type": "file",
-      "filename": "${opts:base}/logs/pomelo-admin.log",
+      "filename": "${opts:base}/logs/pomelo-admin-rt.log",
       "maxLogSize": 1048576,
       "layout": {
           "type": "basic"
         }
       ,"backups": 5,
-      "category":"pomelo-admin"
+      "category":"pomelo-admin-rt"
     },
     {
       "type": "file",

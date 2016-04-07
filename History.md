@@ -7,7 +7,7 @@
 
 1.2.0 / 2015-09-18
 =================
-  * [NEW] upgrade pomelo-admin to 0.4.5
+  * [NEW] upgrade pomelo-admin-rt to 0.4.5
   * [#751](https://github.com/NetEase/pomelo/pull/751)
   * [#741](https://github.com/NetEase/pomelo/pull/741)
   * [#740](https://github.com/NetEase/pomelo/pull/740)
@@ -16,7 +16,7 @@
 1.1.9 / 2015-06-05
 =================
   * [NEW] upgrade pomelo-rpc to 0.4.10
-  * [NEW] upgrade pomelo-admin to 0.4.4
+  * [NEW] upgrade pomelo-admin-rt to 0.4.4
   * [NEW] upgrade pomelo-logger to 0.1.7
 
 1.1.8 / 2015-05-29
@@ -33,7 +33,7 @@
   * [#444](https://github.com/NetEase/pomelo/pull/444)
   * [#713](https://github.com/NetEase/pomelo/pull/713)
   * [NEW] upgrade pomelo-rpc to 0.4.9
-  * [NEW] upgrade pomelo-admin to 0.4.3
+  * [NEW] upgrade pomelo-admin-rt to 0.4.3
 
 1.1.6 / 2015-03-12
 =================
@@ -147,7 +147,7 @@
 * merge pull request #495
 * merge pull request #499
 * merge pull request #501
-* upgrade pomelo-admin to 0.3.4
+* upgrade pomelo-admin-rt to 0.3.4
 
 0.9.8 / 2014-05-04
 =================
@@ -182,7 +182,7 @@
 
 0.9.3 / 2014-03-11
 =================
-* upgrade pomelo-admin to 0.3.2 for npm reason
+* upgrade pomelo-admin-rt to 0.3.2 for npm reason
 
 0.9.2 / 2014-03-10
 =================
@@ -223,7 +223,7 @@
 0.8.6 / 2014-01-22
 =================
 * upgrade pomelo-rpc 0.2.9
-* upgrade pomelo-admin 0.2.9
+* upgrade pomelo-admin-rt 0.2.9
 
 0.8.5 / 2014-01-22
 =================
@@ -238,7 +238,7 @@
 =================
 * add tcp socket close option
 * upgrade pomelo-rpc 0.2.7
-* upgrade pomelo-admin 0.2.8
+* upgrade pomelo-admin-rt 0.2.8
 * upgrade pomelo-schedule 0.3.7
 
 0.8.2 / 2014-01-03
@@ -261,7 +261,7 @@
 * add rcp filter interface
 * simplify servers.json configuration
 * pomelo-logger dynamic log level
-* pomelo-rpc & pomelo-admin white list
+* pomelo-rpc & pomelo-admin-rt white list
 * pomelo-data-plugin
 
 0.7.7 / 2013-12-16
@@ -272,7 +272,7 @@
 0.7.6 / 2013-12-3
 =================
 * upgrade pomelo-rpc to 0.2.4
-* upgrade pomelo-admin to 0.2.6(fix reconnect bug)
+* upgrade pomelo-admin-rt to 0.2.6(fix reconnect bug)
 
 0.7.5 / 2013-11-27
 =================
@@ -310,7 +310,7 @@
 
 0.6.8 / 2013-11-4
 =================
-* update pomelo-admin version
+* update pomelo-admin-rt version
 
 0.6.7 / 2013-10-14
 =================
@@ -319,14 +319,14 @@
 0.6.6 / 2013-10-12
 =================
 * merge pull request #303 replace tab & remove session get value argument
-* upgrade pomelo-admin to 0.2.4
+* upgrade pomelo-admin-rt to 0.2.4
 * upgrade pomelo-monitor to 0.3.7
 * upgrade pomelo-rpc to 0.2.2
 
 0.6.5 / 2013-9-30
 =================
 * fix server reconnect bug
-* upgrade pomelo-admin to 0.2.3
+* upgrade pomelo-admin-rt to 0.2.3
 
 0.6.4 / 2013-9-27
 =================
@@ -342,13 +342,13 @@
 
 0.6.2 / 2013-9-5
 =================
-* upgrade pomelo-admin to 0.2.2
+* upgrade pomelo-admin-rt to 0.2.2
 * update test cases
 * fix socket.on end bug
 
 0.6.1 / 2013-9-2
 =================
-* update pomelo-admin & pomelo-rpc to 0.2.1
+* update pomelo-admin-rt & pomelo-rpc to 0.2.1
 * add rpcDebug module in master
 
 0.6.0 / 2013-8-26
@@ -517,7 +517,7 @@
 0.2.3 / 2012-12-25
 ==================
 
-* add mkdirp, update pomelo-admin version
+* add mkdirp, update pomelo-admin-rt version
 * solve windows comptaible problem
 
 0.2.2 / 2012-12-9
