@@ -13,3 +13,6 @@ How to use it:
 //var pomelo = require('pomelo-rt');
 var pomelo = require('pomelo-rt');
 ```
+
+## Demo
+https://github.com/roytan883/chatofpomelo-rt
