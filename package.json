@@ -1,6 +1,6 @@
 {
   "name": "pomelo-rt",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "private": false,
   "homepage": "https://github.com/roytan883/pomelo-rt",
   "repository": {
@@ -36,7 +36,7 @@
     "cliff": "0.1.8",
     "mkdirp": "0.3.3",
     "pomelo-loader": "0.0.6",
-    "pomelo-rpc-ws": "^1.0.2",
+    "pomelo-rpc-ws": "^1.0.3",
     "pomelo-protocol": "0.1.6",
     "pomelo-admin-rt": "^1.0.1",
     "pomelo-logger": "0.1.7",
